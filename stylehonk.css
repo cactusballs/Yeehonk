@@ -1,0 +1,23 @@
+body{
+  background-color: #ff9be1;
+  display: flex;
+  justify-items: center;
+}
+
+#duck{
+  margin: 0 25vw;
+  height: 100vh;
+  width: auto;
+  z-index: -1;
+}
+#animate {
+  position: relative;
+  height: 100px;
+  width: auto;
+  z-index: 1;
+}
+
+#animate img{}
+  height: 300px;
+  width: auto;
+}
