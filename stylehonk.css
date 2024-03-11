@@ -26,7 +26,7 @@ body{
 
 @media only screen and (max-width: 768px) {
   #duck {
-    margin: 0 0; /* Adjusted margin for smaller screens */
+    margin: 0 10px; /* Adjusted margin for smaller screens */
     height: 60vh;
     width: auto;
   }
